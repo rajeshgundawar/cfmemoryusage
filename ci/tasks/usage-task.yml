@@ -3,7 +3,7 @@ platform: linux
 image_resource:
   type: docker-image
   source:
-    repository: gundawar/cf-cli
+    repository: mujahidsoft/cfcli
     tag: latest
 inputs:
   - name: cfusagerepo
