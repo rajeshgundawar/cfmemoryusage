@@ -43,6 +43,6 @@ resources:
       from: {{FROM}} 
   - name: cfusagerepo
     type: git
-    source: #https://github.com/rajeshgundawar/pcfmemory.git
+    source: 
       branch: master
-      uri: https://github.com/rajeshgundawar/cfmemoryusage.git
+      uri: https://github.com/mujahidsof/pcfmemory.git
